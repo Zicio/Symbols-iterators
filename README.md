@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yyi2sif2a65b2h2k?svg=true)](https://ci.appveyor.com/project/Zicio/symbols-iterators)
